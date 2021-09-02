@@ -14,5 +14,5 @@ Pushing allows us to ove any new commits to a remote repository. So in this case
 ## what are branches? 
 Branches are different versiosn of our repo created from a commit. They allow us to work on different versiosn of our project simultaneously with others and keep our work independent. Master/Main branch is ususally the default branch with the most changes.
 
-## What is merging? 
+## what is merging? 
 Merging is taking the code from one branch and merging it to another. Ususally, we'll have feature branches that branched off the Main branch and we'll merge once the feature is complete.
